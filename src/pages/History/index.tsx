@@ -1,4 +1,4 @@
-import { HistoryContainer, HistoryList, Status } from "./style";
+import { HistoryContainer, HistoryList, Status } from './style';
 
 export function History() {
   return (
