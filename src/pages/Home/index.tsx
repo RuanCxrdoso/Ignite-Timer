@@ -81,7 +81,6 @@ export function Home() {
           setCycles={setCycles}
           activeCycleId={activeCycleId}
         />
-        
         {activeCycle ? (
           <StopCountdownButton type="button" onClick={handleInterruptCycle}>
             <HandPalm size={24} />
