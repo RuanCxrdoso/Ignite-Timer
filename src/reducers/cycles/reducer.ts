@@ -46,13 +46,13 @@ export function CyclesReducer(state: CyclesState, action: any) {
         (cycle) => cycle.id === state.activeCycleId,
       )
 
-      if (currentCycleIndex < 1) {
+      if (currentCycleIndex < 0) {
         return state
       }
 
       return produce(state, (draft) => {
-        draft.cycles[currentCycleIndex].interruptDate = new Date()
         draft.activeCycleId = null
+        draft.cycles[currentCycleIndex].interruptDate = new Date()
       })
     }
     case ActionTypes.MARK_CURRENT_CYCLE_AS_FINISHED: {
