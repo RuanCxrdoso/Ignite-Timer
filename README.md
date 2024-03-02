@@ -18,20 +18,18 @@ Foram utilizadas as seguintes tecnologias neste projeto:
   -  Lib Js para desenvolvimento de interfaces modernas baseadas em componentes.
 + Vite.Js:
   - Ambiente de desenvolvimento.
-+ Syled Components:
++ Styled Components:
   - Estilizador de componentes.
 + React Hook Form:
   - Lib de gerenciamento de formulários para React.
 + Date Fns:
   - Lib de manipulação de datas.
-+ date-fns:
-  - Lib de manipulação e gerenciamento de datas.
 + Immer:
-  - Lib gerenciamento de estados de forma mutável.
+  - Lib para gerenciamento de estados de forma mutável.
 + Phosphor React:
-  - Lib icons para o react.
+  - Lib de icons para o react.
 + Zod:
-  - Lib validação de formulários.
+  - Lib de validação de formulários.
 
 <br>
 <br>
