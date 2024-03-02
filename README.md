@@ -37,7 +37,10 @@ Foram utilizadas as seguintes tecnologias neste projeto:
 <br>
 
 > ## Printscreen do Projeto 📸
+### Preview 1
 ![Project cover](./public/assets/preview1.png)
+### Preview 2
+![Project cover](./public/assets/preview2.png)
 
 <br>
 <br>
