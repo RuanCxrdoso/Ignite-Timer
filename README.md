@@ -1,30 +1,49 @@
-# React + TypeScript + Vite
+# Trilha Ignite - Timer 📚
+![Project cover](./igniteTimer.png)
+# Notas 💭
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> ## Ignite Timer ⏲️
+Este é um projeto de timer pomodoro desenvolvido em colaboração com a RocketSeat, utilizando Vite e os principais conceitos do React. O projeto oferece uma aplicação com funcionalidades avançadas para gerenciamento de tempo, permitindo aos usuários criar timers para suas tarefas com intervalos definidos.
 
-Currently, two official plugins are available:
+Além disso, os usuários podem registrar suas atividades em um histórico detalhado, que lista todas as tarefas juntamente com seu status de conclusão ou se foram interrompidas pelo usuário.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto faz uso extensivo dos principais hooks do React, incluindo useState, useEffect, useContext e useReducer, proporcionando uma experiência de desenvolvimento rica e eficiente. Adicionalmente, incorpora diversas bibliotecas que serão detalhadas abaixo.
 
-## Expanding the ESLint configuration
+<br>
+<br>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+> ## Tecnologias 👨🏾‍💻
+Foram utilizadas as seguintes tecnologias neste projeto:
++ React.Js + TypeScript :
+  -  Lib Js para desenvolvimento de interfaces modernas baseadas em componentes.
++ Vite.Js:
+  - Ambiente de desenvolvimento.
++ Syled Components:
+  - Estilizador de componentes.
++ React Hook Form:
+  - Lib de gerenciamento de formulários para React.
++ Date Fns:
+  - Lib de manipulação de datas.
++ date-fns:
+  - Lib de manipulação e gerenciamento de datas.
++ Immer:
+  - Lib gerenciamento de estados de forma mutável.
++ Phosphor React:
+  - Lib icons para o react.
++ Zod:
+  - Lib validação de formulários.
 
-- Configure the top-level `parserOptions` property like this:
+<br>
+<br>
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+> ## Printscreen do Projeto 📸
+### Preview 1
+![Project cover](./public/assets/preview1.png)
+### Preview 2
+![Project cover](./public/assets/preview2.png)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<br>
+<br>
+
+> ## Autor 📝
++ [Ruan Cardoso](https://www.linkedin.com/in/ruancardosolinkdin/)
