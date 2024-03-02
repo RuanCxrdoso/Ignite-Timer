@@ -1,8 +1,8 @@
 # Trilha Ignite - Timer 📚
 ![Project cover](./igniteTimer.png)
-# Notas 💭
+# Ignite Timer ⏲️
 
-> ## Ignite Timer ⏲️
+> ## Descrição 📝
 Este é um projeto de timer pomodoro desenvolvido em colaboração com a RocketSeat, utilizando Vite e os principais conceitos do React. O projeto oferece uma aplicação com funcionalidades avançadas para gerenciamento de tempo, permitindo aos usuários criar timers para suas tarefas com intervalos definidos.
 
 Além disso, os usuários podem registrar suas atividades em um histórico detalhado, que lista todas as tarefas juntamente com seu status de conclusão ou se foram interrompidas pelo usuário.
