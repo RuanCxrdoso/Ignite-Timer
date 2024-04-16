@@ -100,6 +100,7 @@ Veja uma demonstração das principais interfaces da aplicação:
 
 ### Preview 1
 ![Project cover](./public/assets/preview1.png)
+
 ### Preview 2
 ![Project cover](./public/assets/preview2.png)
 
