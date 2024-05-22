@@ -98,11 +98,7 @@ Veja uma demonstração das principais interfaces da aplicação:
 
 ### Preview
 
-### Preview 1
-![Project cover](./public/assets/preview1.png)
-
-### Preview 2
-![Project cover](./public/assets/preview2.png)
+![igniteTimer](https://github.com/RuanCxrdoso/Ignite-Timer/assets/86266893/378ea566-c2cc-40bf-aff5-4c0fcdb54765)
 
 ---
 
